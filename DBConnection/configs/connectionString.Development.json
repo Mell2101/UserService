@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Connection": "Host=localhost;Port=5432;Database=User_local;Username=User;Password=User"
+  }
+}

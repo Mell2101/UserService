@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  postgres: 
+    image: postgres:latest
+    environment:
+      POSTGRES_PASSWORD: User
+      POSTGRES_USER: User
+      POSTGRES_DB: User_local
+    ports:
+      - '5432:5432'
+
+      
+    
