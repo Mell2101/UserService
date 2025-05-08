@@ -1,7 +1,5 @@
-using System;
 using System.ComponentModel.DataAnnotations;
 using DBConnection.Enum;
-using Microsoft.AspNetCore.SignalR;
 
 namespace UserService.Dto;
 
